@@ -189,12 +189,12 @@ body {
 }
 @media (max-width: 250px) {
     .form {
-        width: 200px;
+        width: 225px;
     }
     .form input {
-        padding: 8px;
+        padding: 10px;
     }
     .form button {
-        padding: 8px;
+        padding: 10px;
     }
 }
