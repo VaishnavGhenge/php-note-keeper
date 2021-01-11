@@ -24,7 +24,7 @@ body {
     position: relative;
     z-index: 1;
     background: #FFFFFF;
-    padding: 40px;
+    padding: 45px;
     margin: auto;
     text-align: center;
     width: 350px;
@@ -192,9 +192,9 @@ body {
         width: 200px;
     }
     .form input {
-        padding: 8px;
+        padding: 10px;
     }
     .form button {
-        padding: 8px;
+        padding: 10px;
     }
 }
