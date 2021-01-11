@@ -168,6 +168,7 @@ body {
 @media (max-width: 400px) {
     .form {
         width: 280px;
+        padding: 25px;
     }
     .form input {
         padding: 12px;
@@ -179,6 +180,7 @@ body {
 @media (max-width: 300px) {
     .form {
         width: 285px;
+        padding: 20px;
     }
     .form input {
         padding: 12px;
@@ -190,6 +192,7 @@ body {
 @media (max-width: 250px) {
     .form {
         width: 245px;
+        padding: 8px;
     }
     .form input {
         padding: 11px;
