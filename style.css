@@ -167,34 +167,34 @@ body {
 }
 @media (max-width: 400px) {
     .form {
-        width: 250px;
+        width: 280px;
     }
     .form input {
-        padding: 10px;
+        padding: 12px;
     }
     .form button {
-        padding: 10px;
+        padding: 12px;
     }
 }
 @media (max-width: 300px) {
     .form {
-        width: 250px;
+        width: 285px;
     }
     .form input {
-        padding: 10px;
+        padding: 12px;
     }
     .form button {
-        padding: 10px;
+        padding: 12px;
     }
 }
 @media (max-width: 250px) {
     .form {
-        width: 225px;
+        width: 245px;
     }
     .form input {
-        padding: 10px;
+        padding: 11px;
     }
     .form button {
-        padding: 10px;
+        padding: 11px;
     }
 }
