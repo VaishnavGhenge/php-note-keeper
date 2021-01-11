@@ -167,37 +167,34 @@ body {
 }
 @media (max-width: 400px) {
     .form {
-        width: 280px;
-        padding: 95px;
+        width: 250px;
     }
     .form input {
-        padding: 12px;
+        padding: 10px;
     }
     .form button {
-        padding: 12px;
+        padding: 10px;
     }
 }
 @media (max-width: 300px) {
     .form {
-        width: 285px;
-        padding: 95px;
+        width: 250px;
     }
     .form input {
-        padding: 12px;
+        padding: 10px;
     }
     .form button {
-        padding: 12px;
+        padding: 10px;
     }
 }
-@media (max-width: 250px) {
+@media (max-width: 20px) {
     .form {
-        width: 245px;
-        padding: 95px;
+        width: 200px;
     }
     .form input {
-        padding: 11px;
+        padding: 8px;
     }
     .form button {
-        padding: 11px;
+        padding: 8px;
     }
 }
