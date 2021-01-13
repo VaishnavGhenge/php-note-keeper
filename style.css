@@ -170,6 +170,9 @@ body {
     .form {
         width: 300px;
     }
+    .container {
+        margin: 20px auto;
+    }
 }
 @media (max-width: 400px) {
     .form {
@@ -180,6 +183,9 @@ body {
     }
     .form button {
         padding: 13px;
+    }
+    .container {
+        margin: 20px auto;
     }
 }
 @media (max-width: 360px) {
@@ -192,6 +198,9 @@ body {
     .form button {
         padding: 13px;
     }
+    .container {
+        margin: 20px auto;
+    }
 }
 @media (max-width: 320px) {
     .form {
@@ -202,6 +211,9 @@ body {
     }
     .form button {
         padding: 13px;
+    }
+    .container {
+        margin: 20px auto;
     }
 }
 @media (max-width: 300px) {
@@ -214,6 +226,9 @@ body {
     .form button {
         padding: 13px;
     }
+    .container {
+        margin: 20px auto;
+    }
 }
 @media (max-width: 200px) {
     .form {
@@ -224,5 +239,8 @@ body {
     }
     .form button {
         padding: 12px;
+    }
+    .container {
+        margin: 15px auto;
     }
 }
