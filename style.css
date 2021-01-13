@@ -79,7 +79,7 @@ body {
 .container {
     position: relative;
     z-index: 1;
-    vertically-align: middle;
+    /*vertically-align: middle;*/
     max-width: 300px;
     margin: 40% auto;
 }
@@ -146,56 +146,83 @@ body {
 }
 @media (max-width: 600px) {
     .form {
-        width: 280px;
+        width: 300px;
     }
     .form input {
-        padding: 12px;
+        padding: 13px;
     }
     .form button {
-        padding: 12px;
+        padding: 13px;
     }
 }
 @media (max-width: 500px) {
     .form {
-        width: 280px;
+        width: 300px;
     }
     .form input {
-        padding: 12px;
+        padding: 13px;
     }
     .form button {
-        padding: 12px;
+        padding: 13px;
+    }
+}
+@media (max-width: 480px) {
+    .form {
+        width: 300px;
     }
 }
 @media (max-width: 400px) {
     .form {
-        width: 250px;
+        width: 300px;
     }
     .form input {
-        padding: 10px;
+        padding: 13px;
     }
     .form button {
-        padding: 10px;
+        padding: 13px;
+    }
+}
+@media (max-width: 360px) {
+    .form {
+        width: 300px;
+    }
+    .form input {
+        padding: 13px;
+    }
+    .form button {
+        padding: 13px;
+    }
+}
+@media (max-width: 320px) {
+    .form {
+        width: 300px;
+    }
+    .form input {
+        padding: 13px;
+    }
+    .form button {
+        padding: 13px;
     }
 }
 @media (max-width: 300px) {
     .form {
-        width: 250px;
+        width: 290px;
     }
     .form input {
-        padding: 10px;
+        padding: 13px;
     }
     .form button {
-        padding: 10px;
+        padding: 13px;
     }
 }
-@media (max-width: 20px) {
+@media (max-width: 200px) {
     .form {
-        width: 200px;
+        width: 198px;
     }
     .form input {
-        padding: 10px;
+        padding: 12px;
     }
     .form button {
-        padding: 10px;
+        padding: 12px;
     }
 }
