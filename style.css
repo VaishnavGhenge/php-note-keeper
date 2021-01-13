@@ -79,6 +79,7 @@ body {
 .container {
     position: relative;
     z-index: 1;
+    vertically-align: middle;
     max-width: 300px;
     margin: 40% auto;
 }
