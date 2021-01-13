@@ -79,9 +79,9 @@ body {
 .container {
     position: relative;
     z-index: 1;
-    /*vertically-align: middle;*/
+    vertically-align: middle;
     max-width: 300px;
-    margin: 40% auto;
+    margin: 0 auto;
 }
 .container:before, .container:after {
     content: "";
