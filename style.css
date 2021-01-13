@@ -171,7 +171,7 @@ body {
         width: 300px;
     }
     .container {
-        margin: 20px auto;
+        margin: 10% auto;
     }
 }
 @media (max-width: 400px) {
@@ -185,7 +185,7 @@ body {
         padding: 13px;
     }
     .container {
-        margin: 20px auto;
+        margin: 10% auto;
     }
 }
 @media (max-width: 360px) {
@@ -199,7 +199,7 @@ body {
         padding: 13px;
     }
     .container {
-        margin: 20px auto;
+        margin: 10% auto;
     }
 }
 @media (max-width: 320px) {
@@ -213,7 +213,7 @@ body {
         padding: 13px;
     }
     .container {
-        margin: 20px auto;
+        margin: 10% auto;
     }
 }
 @media (max-width: 300px) {
@@ -227,7 +227,7 @@ body {
         padding: 13px;
     }
     .container {
-        margin: 20px auto;
+        margin: 10% auto;
     }
 }
 @media (max-width: 200px) {
@@ -241,6 +241,6 @@ body {
         padding: 12px;
     }
     .container {
-        margin: 15px auto;
+        margin: 10% auto;
     }
 }
